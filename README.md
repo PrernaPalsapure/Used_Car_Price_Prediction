@@ -74,7 +74,5 @@ The dataset contains used car listings with attributes such as:
 
 
 🔹 Author
-
 Prerna Palsapure
-
 Data Science / Data Analyst Enthusiast
