@@ -73,5 +73,6 @@ The dataset contains used car listings with attributes such as:
 📊 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/prerna.palsapure/viz/UsedCarPricePredictionDashboard/Dashboard1)
 
 🔹 Author
+
 Prerna Palsapure
 Data Science / Data Analyst Enthusiast
